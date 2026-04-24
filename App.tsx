@@ -162,7 +162,7 @@ const App = () => {
             
             <motion.div initial="hidden" whileInView="visible" viewport={{ once: true }} variants={fadeUpVariant} className="order-1 lg:order-2 relative">
               <div className="aspect-[4/5] rounded-3xl overflow-hidden shadow-2xl">
-                <img src="https://images.unsplash.com/photo-1550989460-0adf9ea622e2?auto=format&fit=crop&q=80&w=800" alt="Tecnologia Hidropônica Mura" className="w-full h-full object-cover" />
+                <img src="https://69ebabbf7b9aa6e0f06c7f34.imgix.net/jardim%20vertical%20Mura/ChatGPT%20Image%2022%20de%20abr.%20de%202026,%2015_49_55.png" alt="Tecnologia Hidropônica Mura" className="w-full h-full object-cover" />
               </div>
               <div className="absolute -bottom-8 -left-8 bg-white p-6 rounded-2xl shadow-xl max-w-xs hidden sm:block">
                 <div className="flex items-center gap-4 mb-2">
